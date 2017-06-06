@@ -1,5 +1,5 @@
 #!/bin/bash
-python3.6 -m venv --no-site-packages env
+python3.6 -m venv env
 source env/bin/activate
 # install dependencies
 pip3 install --no-cache-dir -r requirements.txt
