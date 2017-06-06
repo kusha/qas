@@ -1,0 +1,53 @@
+
+    FINAL DATASET METRICS
+    -------------------------------
+    Total amount of questions: 632
+    Total amount of answers: 1859
+    Answers per question: 2.9415
+    Single factoid questions: 253, 40.03%
+    Multiple factoid questions: 191, 30.22%
+    Number questions: 81, 12.82%
+    Date questions: 28, 4.43%
+    Boolean questions: 55, 8.7%
+    Aggregation questions: 95, 15.03%
+    Questions with items specified: 526
+    Interlinked factoids count: 398
+
+    EXTENSION METRICS
+    -------------------------------
+    Linked question-answer pairs: 167 of 228 (73.25%)
+    Average count of paths in solution: 75.83
+    Average path length: 2.51
+    Oversubstituted paths: 28
+    Paths with no substitutions: 6
+    Normal substitutions samples: 1
+    Average substitutions count: 171
+
+    ANSWERING W/O REFERENCE METRICS
+    -------------------------------
+    Answering w/o reference samples: 131
+    nswering w/o reference average precision: 0.02
+    nswering w/o reference average recall: 0.07
+    nswering w/o reference average F-measure: 0.03
+
+    MATCHING METRICS
+    -------------------------------
+    Matching with data samples: 451
+    Matching average precision: 0.44
+    Matching average recall: 0.8
+    Matching average F-measure: 0.53
+
+    TIMING METRICS
+    -------------------------------------------------
+    Average initialization time: 10.39s @ 30 iteration
+    Extension average time (all): 35.99s
+    Extension average time (success only): 37.9s
+    Extension average time (failure only): 30.78s
+    spaCy average parsing time: 0.00159
+    Link Grammar Parser average parsing time: 0.27228
+    Answering w/o reference samples: 193
+    Answering w/o reference time: 103.38s
+    Answering with reference samples: 31
+    Answering with reference time: 0.48s
+    Matching with data samples: 495
+    Matching with data time: 0.74s

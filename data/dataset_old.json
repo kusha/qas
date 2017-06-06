@@ -1,0 +1,1838 @@
+[
+    {
+        "answers": [
+            "http://dbpedia.org/resource/Barack_Obama"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "Who is the president by whom 20 million Americans had gained health insurance?"
+    },
+    {
+        "answers": [
+            "1954-07-17"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "When was the European President known as the decider born?"
+    },
+    {
+        "answers": [
+            "http://dbpedia.org/resource/42_(number)"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "What is the Answer to The Ultimate Question of Life, the Universe, and Everything?"
+    },
+    {
+        "answers": [
+            "56"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "How many floors does the world's only 7 star hotel have?"
+    },
+    {
+        "answers": [
+            "6"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "How many awards achieved the creator of the world's most famous equation?"
+    },
+    {
+        "answers": [
+            "http://dbpedia.org/resource/Julian_Lennon",
+            "http://dbpedia.org/resource/Sean_Lennon"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "Who are the sons of the songwriter of the Beatles?"
+    },
+    {
+        "answers": [
+            "http://dbpedia.org/resource/1991_Belgian_Grand_Prix"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "Where was the first race for the greatest Formula One driver of all times?"
+    },
+    {
+        "answers": [
+            "http://dbpedia.org/resource/Factotum_(novel)",
+            "http://dbpedia.org/resource/Women_(novel)",
+            "http://dbpedia.org/resource/Pulp_(novel)",
+            "http://dbpedia.org/resource/Post_Office_(novel)",
+            "http://dbpedia.org/resource/Hollywood_(Bukowski_novel)",
+            "http://dbpedia.org/resource/Ham_on_Rye"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "Which books of the laureate of American lowlife are published by Black Sparrow Books?"
+    },
+    {
+        "answers": [
+            "http://dbpedia.org/resource/Rick_Husband",
+            "http://dbpedia.org/resource/William_C._McCool",
+            "http://dbpedia.org/resource/Michael_P._Anderson",
+            "http://dbpedia.org/resource/Ilan_Ramon",
+            "http://dbpedia.org/resource/Kalpana_Chawla",
+            "http://dbpedia.org/resource/David_M._Brown",
+            "http://dbpedia.org/resource/Laurel_Clark"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "Which astronauts died at the Columbia disaster also known as STS-107?"
+    },
+    {
+        "answers": [
+            "http://dbpedia.org/resource/Diana_Princess_of_Wales"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "Which princess died in a car crash in Paris?"
+    },
+    {
+        "answers": [
+            "http://dbpedia.org/resource/Boris_Johnson"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "Who was the mayor of London during the olympic games?"
+    },
+    {
+        "answers": [
+            "http://dbpedia.org/resource/Mikhail_Gorbachev"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "Who was the president of the USSR during the cold war?"
+    },
+    {
+        "answers": [
+            "http://dbpedia.org/resource/Charles_Powell_Adams",
+            "http://dbpedia.org/resource/Ira_Coray_Abbott",
+            "http://dbpedia.org/resource/Horatio_Wright",
+            "http://dbpedia.org/resource/James_L._Kemper",
+            "http://dbpedia.org/resource/John_Bell_Hood",
+            "http://dbpedia.org/resource/Stephen_Dodson_Ramseur",
+            "http://dbpedia.org/resource/William_Barksdale",
+            "http://dbpedia.org/resource/William_Mahone",
+            "http://dbpedia.org/resource/George_T._Anderson",
+            "http://dbpedia.org/resource/Thomas_W._Hyde",
+            "http://dbpedia.org/resource/Carle_Augustus_Woodruff",
+            "http://dbpedia.org/resource/Leroy_Augustus_Stafford",
+            "http://dbpedia.org/resource/William_Montrose_Graham,_Jr.",
+            "http://dbpedia.org/resource/Armistead_Lindsay_Long",
+            "http://dbpedia.org/resource/Orpheus_S._Woodward",
+            "http://dbpedia.org/resource/Benjamin_G._Humphreys",
+            "http://dbpedia.org/resource/Beverly_Robertson",
+            "http://dbpedia.org/resource/John_F._Reynolds",
+            "http://dbpedia.org/resource/Richard_S._Ewell",
+            "http://dbpedia.org/resource/John_Newton_(engineer)",
+            "http://dbpedia.org/resource/Paul_Jones_Semmes",
+            "http://dbpedia.org/resource/Alexander_Schimmelfennig",
+            "http://dbpedia.org/resource/George_H._Steuart_(brigadier_general)",
+            "http://dbpedia.org/resource/James_Conner_(general)",
+            "http://dbpedia.org/resource/Ranald_S._Mackenzie",
+            "http://dbpedia.org/resource/Richard_B._Garnett",
+            "http://dbpedia.org/resource/Junius_Daniel",
+            "http://dbpedia.org/resource/Oliver_O._Howard",
+            "http://dbpedia.org/resource/Daniel_Butterfield",
+            "http://dbpedia.org/resource/Elwell_Stephen_Otis",
+            "http://dbpedia.org/resource/Henry_Jackson_Hunt",
+            "http://dbpedia.org/resource/John_Brown_Gordon",
+            "http://dbpedia.org/resource/W%C5%82odzimierz_Krzy%C5%BCanowski",
+            "http://dbpedia.org/resource/Gouverneur_K._Warren",
+            "http://dbpedia.org/resource/Henry_Heth",
+            "http://dbpedia.org/resource/James_Henry_Lane_(Confederate_general)",
+            "http://dbpedia.org/resource/Lafayette_McLaws",
+            "http://dbpedia.org/resource/James_J._Archer",
+            "http://dbpedia.org/resource/Adolph_von_Steinwehr",
+            "http://dbpedia.org/resource/Charles_K._Graham",
+            "http://dbpedia.org/resource/Alfred_Moore_Scales",
+            "http://dbpedia.org/resource/John_Doby_Kennedy",
+            "http://dbpedia.org/resource/Henry_L._Eustis",
+            "http://dbpedia.org/resource/Henry_S._Huidekoper",
+            "http://dbpedia.org/resource/Winfield_Scott_Hancock",
+            "http://dbpedia.org/resource/William_Dorsey_Pender",
+            "http://dbpedia.org/resource/Richard_L._T._Beale",
+            "http://dbpedia.org/resource/Henry_Warner_Slocum",
+            "http://dbpedia.org/resource/Lysander_Cutler",
+            "http://dbpedia.org/resource/William_C._Oates",
+            "http://dbpedia.org/resource/John_Buford",
+            "http://dbpedia.org/resource/Harry_T._Hays",
+            "http://dbpedia.org/resource/Samuel_W._Crawford",
+            "http://dbpedia.org/resource/Archibald_C._Godwin",
+            "http://dbpedia.org/resource/Henry_Livermore_Abbott",
+            "http://dbpedia.org/resource/Albion_P._Howe",
+            "http://dbpedia.org/resource/Ellis_Spear",
+            "http://dbpedia.org/resource/Alexander_S._Webb",
+            "http://dbpedia.org/resource/Napoleon_B._McLaughlen",
+            "http://dbpedia.org/resource/George_Armstrong_Custer",
+            "http://dbpedia.org/resource/Abner_Monroe_Perrin",
+            "http://dbpedia.org/resource/Isaac_R._Trimble",
+            "http://dbpedia.org/resource/Daniel_Sickles",
+            "http://dbpedia.org/resource/Isaac_R._Trimble",
+            "http://dbpedia.org/resource/J._Johnston_Pettigrew",
+            "http://dbpedia.org/resource/Joshua_Chamberlain",
+            "http://dbpedia.org/resource/Lucius_Fairchild",
+            "http://dbpedia.org/resource/Elon_J._Farnsworth",
+            "http://dbpedia.org/resource/William_T._Wofford",
+            "http://dbpedia.org/resource/John_C._Bates",
+            "http://dbpedia.org/resource/John_R._Chambliss",
+            "http://dbpedia.org/resource/Samuel_K._Zook",
+            "http://dbpedia.org/resource/Thomas_H._Ruger",
+            "http://dbpedia.org/resource/Henry_Baxter",
+            "http://dbpedia.org/resource/Thomas_L._Rosser",
+            "http://dbpedia.org/resource/Thomas_Devin",
+            "http://dbpedia.org/resource/George_P._Foster",
+            "http://dbpedia.org/resource/Gabriel_Ren%C3%A9_Paul",
+            "http://dbpedia.org/resource/R%C3%A9gis_de_Trobriand",
+            "http://dbpedia.org/resource/Joseph_B._Kershaw",
+            "http://dbpedia.org/resource/Alfred_Iverson,_Jr.",
+            "http://dbpedia.org/resource/Charles_Griffin",
+            "http://dbpedia.org/resource/Robert_O._Tyler",
+            "http://dbpedia.org/resource/Alexander_Hays",
+            "http://dbpedia.org/resource/J._H._Hobart_Ward",
+            "http://dbpedia.org/resource/John_C._Caldwell",
+            "http://dbpedia.org/resource/John_C._Robinson",
+            "http://dbpedia.org/resource/Robert_D._Lilley",
+            "http://dbpedia.org/resource/Lewis_Armistead",
+            "http://dbpedia.org/resource/George_Meade",
+            "http://dbpedia.org/resource/George_Pickett",
+            "http://dbpedia.org/resource/Romeyn_B._Ayres",
+            "http://dbpedia.org/resource/Francis_C._Barlow",
+            "http://dbpedia.org/resource/Augustus_Pearl_Martin",
+            "http://dbpedia.org/resource/Edward_Lloyd_Thomas",
+            "http://dbpedia.org/resource/Thomas_Algeo_Rowley",
+            "http://dbpedia.org/resource/William_Smith_(Virginia_governor)",
+            "http://dbpedia.org/resource/Harry_C._Egbert",
+            "http://dbpedia.org/resource/Clement_A._Evans",
+            "http://dbpedia.org/resource/James_Barnes_(general)",
+            "http://dbpedia.org/resource/Thomas_Alfred_Smyth",
+            "http://dbpedia.org/resource/Birkett_D._Fry",
+            "http://dbpedia.org/resource/Moxley_Sorrel",
+            "http://dbpedia.org/resource/Collett_Leventhorpe",
+            "http://dbpedia.org/resource/Peter_A.S._McGlashan",
+            "http://dbpedia.org/resource/Laurence_S._Baker",
+            "http://dbpedia.org/resource/John_M._Jones",
+            "http://dbpedia.org/resource/James_Clay_Rice",
+            "http://dbpedia.org/resource/Thomas_W._Egan",
+            "http://dbpedia.org/resource/Joseph_G._Sanders",
+            "http://dbpedia.org/resource/William_L._Brandon",
+            "http://dbpedia.org/resource/Alonzo_W._Adams",
+            "http://dbpedia.org/resource/James_Gwyn",
+            "http://dbpedia.org/resource/Richard_Napoleon_Batchelder",
+            "http://dbpedia.org/resource/Charles_Saalmann",
+            "http://dbpedia.org/resource/Adrian_R._Root"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "Who were generals of the battle of gettysburg?"
+    },
+    {
+        "answers": [
+            "http://dbpedia.org/resource/Seattle"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "In which city was the mother of Bill Gates born?"
+    },
+    {
+        "answers": [
+            "\"Harward Law School\" @en",
+            "\"Princeton University\" @en"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "What is the name of the school where obama's wife is studied?"
+    },
+    {
+        "answers": [
+            "http://dbpedia.org/resource/Jean-Fran%C3%A7ois_Champollion"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "Who first deciphered the Egyptian hieroglyphs?"
+    },
+    {
+        "answers": [
+            "http://dbpedia.org/resource/Tim_Berners-Lee"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "Who invented the World Wide Web?"
+    },
+    {
+        "answers": [
+            "http://dbpedia.org/resource/Mustafa_Kemal_Atat%C3%BCrk"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "Who is the founder of the Turkish Republic?"
+    },
+    {
+        "answers": [
+            "http://dbpedia.org/resource/Takenaka_Corporation",
+            "http://dbpedia.org/resource/C%C3%A9sar_Pelli"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "Who is the architect of the tallest building in Japan?"
+    },
+    {
+        "answers": [
+            "http://dbpedia.org/resource/Eugene_Cernan"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "Who was the last man on the moon?"
+    },
+    {
+        "answers": [
+            "http://dbpedia.org/resource/Bryan_Cranston"
+        ],
+        "answertype": "proj",
+        "dataset": "data/./qald/qald-6-test-hybrid.json",
+        "question": "Who portrays a chemistry teacher and drug dealer in a famous TV series?"
+    },
+    {
+        "answers": [
+            "4"
+        ],
+        "answertype": "n",
+        "dataset": "data/./qald/qald-6-train-hybrid.json",
+        "question": "How many Golden Globe awards did the daughter of Henry Fonda win?"
+    },
+    {
+        "answers": [
+            "25"
+        ],
+        "answertype": "n",
+        "dataset": "data/./qald/qald-6-train-hybrid.json",
+        "question": "How old was Steve Jobs' sister when she first met him?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-hybrid.json",
+        "question": "Are the Rosetta Stone and the Gayer-Andersen cat exhibited in the same museum?"
+    },
+    {
+        "answers": [
+            "1858-12-22"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-6-train-hybrid.json",
+        "question": "When was the the greatest composer of Italian opera after Verdi born?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-hybrid.json",
+        "question": "Did Napoleon's first wife die in France?"
+    },
+    {
+        "answers": [
+            "45"
+        ],
+        "answertype": "age",
+        "dataset": "data/./qald/qald-6-train-hybrid.json",
+        "question": "How old is James Bond in the latest Bond book by William Boyd?"
+    },
+    {
+        "answers": [
+            "2"
+        ],
+        "answertype": "n",
+        "dataset": "data/./qald/qald-6-train-hybrid.json",
+        "question": "How many children does the actor who plays Dan White in Milk have?"
+    },
+    {
+        "answers": [
+            "1917"
+        ],
+        "answertype": "year",
+        "dataset": "data/./qald/qald-6-train-hybrid.json",
+        "question": "In which year did the Hungarian-American actor called \"The King of Horror\" make his first film?"
+    },
+    {
+        "answers": [
+            "Boz"
+        ],
+        "answertype": "string",
+        "dataset": "data/./qald/qald-6-train-hybrid.json",
+        "question": "Under which pseudonym did Charles Dickens write some of his books?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-hybrid.json",
+        "question": "Are there man-made lakes in Australia that are deeper than 100 meters?"
+    },
+    {
+        "answers": [
+            "1858-12-22"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-7-train-hybrid-extended-json.json",
+        "question": "When was the composer of the opera Madame Butterfly born?"
+    },
+    {
+        "answers": [
+            "Boz"
+        ],
+        "answertype": "string",
+        "dataset": "data/./qald/qald-7-train-hybrid-extended-json.json",
+        "question": "Under which pseudonym did Charles Dickens publish some of his books?"
+    },
+    {
+        "answers": [
+            "Die Presse"
+        ],
+        "answertype": "string",
+        "dataset": "data/./qald/qald-7-train-hybrid-extended-json.json",
+        "question": "What is the name of the Viennese newspaper founded by the creator of the croissant?"
+    },
+    {
+        "answers": [
+            "Daniel Craig"
+        ],
+        "answertype": "string",
+        "dataset": "data/./qald/qald-7-train-hybrid-extended-json.json",
+        "question": "Daniel Craig"
+    },
+    {
+        "answers": [
+            "1858-12-22"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-7-train-hybrid-extended-json.json",
+        "question": "When was the composer of the opera Madama Butterfly born?"
+    },
+    {
+        "answers": [
+            "3"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-7-train-hybrid-extended-json.json",
+        "question": "How many Golden Globe awards did the husband of Katie Holmes win?"
+    },
+    {
+        "answers": [
+            "Lost in Translation"
+        ],
+        "answertype": "string",
+        "dataset": "data/./qald/qald-7-train-hybrid-extended-json.json",
+        "question": "Lost in Translation"
+    },
+    {
+        "answers": [
+            "25"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-7-train-hybrid-extended-json.json",
+        "question": "How old was Steve Job's sister when she first met him?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "Did Kaurism\u00e4ki ever win the Grand Prix at Cannes?"
+    },
+    {
+        "answers": [
+            "14"
+        ],
+        "answertype": "\"callret-0\"",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "How many movies did Park Chan-wook direct?"
+    },
+    {
+        "answers": [
+            "Harvard Law School",
+            "Princeton University"
+        ],
+        "answertype": "s",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "What is the name of the school where Obama's wife studied?"
+    },
+    {
+        "answers": [
+            "1773-12-16"
+        ],
+        "answertype": "d",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "When did the Boston Tea Party take place?"
+    },
+    {
+        "answers": [
+            "1999-06-25"
+        ],
+        "answertype": "d",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "When did Boris Becker end his active career?"
+    },
+    {
+        "answers": [
+            "4"
+        ],
+        "answertype": "\"callret-0\"",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "How many grand-children did Jacques Cousteau have?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "Does Neymar play for Real Madrid?"
+    },
+    {
+        "answers": [
+            "50035"
+        ],
+        "answertype": "n",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "How many seats does the home stadium of FC Porto have?"
+    },
+    {
+        "answers": [
+            "Mountbatten-Windsor, Charles Philip Arthur George"
+        ],
+        "answertype": "s",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "What is the full name of Prince Charles?"
+    },
+    {
+        "answers": [
+            "1997-08-31"
+        ],
+        "answertype": "d",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "When did princess Diana die?"
+    },
+    {
+        "answers": [
+            "2"
+        ],
+        "answertype": "n",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "How many moons does Mars have?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "Did Elvis Presley have children?"
+    },
+    {
+        "answers": [
+            "c. 1662"
+        ],
+        "answertype": "s",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "When did the Dodo become extinct?"
+    },
+    {
+        "answers": [
+            "1944-08-30"
+        ],
+        "answertype": "d",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "When did Operation Overlord commence?"
+    },
+    {
+        "answers": [
+            "6.0E7"
+        ],
+        "answertype": "n",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "How much did the Lego Movie cost?"
+    },
+    {
+        "answers": [
+            "1101.13"
+        ],
+        "answertype": "n",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "How many calories does a baguette have?"
+    },
+    {
+        "answers": [
+            "245"
+        ],
+        "answertype": "\"callret-0\"",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "How many emperors did China have?"
+    },
+    {
+        "answers": [
+            "Cardiac arrest induced by propofol and benzodiazepine intoxication"
+        ],
+        "answertype": "s",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "How did Michael Jackson die?"
+    },
+    {
+        "answers": [
+            "--10-12"
+        ],
+        "answertype": "d",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "On which day is Columbus Day?"
+    },
+    {
+        "answers": [
+            "1.6764"
+        ],
+        "answertype": "n",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "How short is the shortest active NBA player?"
+    },
+    {
+        "answers": [
+            "Leonardo",
+            "Donatello",
+            "Michelangelo",
+            "Raphael"
+        ],
+        "answertype": "s",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "What are the names of the Teenage Mutant Ninja Turtles?"
+    },
+    {
+        "answers": [
+            "Bruce Wayne"
+        ],
+        "answertype": "s",
+        "dataset": "data/./qald/qald-6-test-multilingual.json",
+        "question": "What is Batman's real name?"
+    },
+    {
+        "answers": [
+            "24500"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many students does the Free University in Amsterdam have?"
+    },
+    {
+        "answers": [
+            "1905-09-01"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "When was Alberta admitted as province?"
+    },
+    {
+        "answers": [
+            "15629"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "What is the total amount of men and women serving in the FDNY?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Does Breaking Bad have more episodes than Game of Thrones?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Is proinsulin a protein?"
+    },
+    {
+        "answers": [
+            "1.9812"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How tall is Michael Jordan?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Do Prince Harry and Prince William have the same parents?"
+    },
+    {
+        "answers": [
+            "2"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many languages are spoken in Turkmenistan?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Are tree frogs a type of amphibian?"
+    },
+    {
+        "answers": [
+            "Angela Dorothea Kasner"
+        ],
+        "answertype": "string",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "What is the birth name of Angela Merkel?"
+    },
+    {
+        "answers": [
+            "3"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How often did Jane Fonda marry?"
+    },
+    {
+        "answers": [
+            "114"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many inhabitants does Maribor have?"
+    },
+    {
+        "answers": [
+            "2.02"
+        ],
+        "answertype": "height",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How tall is Amazon Eve?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Was the Cuban Missile Crisis earlier than the Bay of Pigs Invasion?"
+    },
+    {
+        "answers": [
+            "The City by the Bay; Fog City; San Fran; Frisco ; The City that Knows How ; Baghdad by the Bay ; The Paris of the West"
+        ],
+        "answertype": "string",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "What are the nicknames of San Francisco?"
+    },
+    {
+        "answers": [
+            "1948-03-17"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "When were the Hells Angels founded?"
+    },
+    {
+        "answers": [
+            "133"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many missions does the Soyuz programme have?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Did Socrates influence Aristotle?"
+    },
+    {
+        "answers": [
+            "53600"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many employees does Google have?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Did Tesla win a nobel prize in physics?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Is Rita Wilson the wife of Tom Hanks?"
+    },
+    {
+        "answers": [
+            "1886-10-28"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "When was the Statue of Liberty built?"
+    },
+    {
+        "answers": [
+            "3"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many children did Benjamin Franklin have?"
+    },
+    {
+        "answers": [
+            "2009-06-25"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "When did Michael Jackson die?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Was Margaret Thatcher a chemist?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Was Marc Chagall a jew?"
+    },
+    {
+        "answers": [
+            "8848.0"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How high is the Mount Everest?"
+    },
+    {
+        "answers": [
+            "381488"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many people live in the capital of Australia?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Is Egypts largest city also its capital?"
+    },
+    {
+        "answers": [
+            "1842"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "What is the founding year of the brewery that produces Pilsner Urquell?"
+    },
+    {
+        "answers": [
+            "\\\"No-One Could Ever Love You More\\\" (Norway)",
+            "\\\"Saturday Night Out\\\"",
+            "\\\"Do You Wanna Dance?\\\"",
+            "\\\"I Don't Care\\\"",
+            "\\\"California Sun\\\" / \\\"I Dont Wanna Walk Around With You\\\" (live)",
+            "\\\"Gee Girl\\\"",
+            "\\\"Babysitter\\\"",
+            "\\\"Daytime Dilemma (Dangers of Love)\\\"",
+            "\\\"Go Home Ann\\\" (12\\\" only)",
+            "\\\"She's the One\\\""
+        ],
+        "answertype": "string",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Give me all B-sides of the Ramones."
+    },
+    {
+        "answers": [
+            "1973-12-03",
+            "1971-04-12",
+            "1973-09-05",
+            "1968-07-27",
+            "1980-05-19",
+            "1985-11-30",
+            "1973-06-15",
+            "1969-02-01",
+            "1969-02-08",
+            "1972-12-19",
+            "1971-01-26",
+            "1965-10-01"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Give me the birthdays of all actors of the television show Charmed."
+    },
+    {
+        "answers": [
+            "431212"
+        ],
+        "answertype": "number",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many employees does IBM have?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Was U.S. president Jackson involved in a war?"
+    },
+    {
+        "answers": [
+            "030"
+        ],
+        "answertype": "string",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "What is the area code of Berlin?"
+    },
+    {
+        "answers": [
+            "2004-05-01"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "When did Latvia join the EU?"
+    },
+    {
+        "answers": [
+            "1863-07-03"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "When was the Battle of Gettysburg?"
+    },
+    {
+        "answers": [
+            "6"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Which telecommunications organizations are located in Belgium?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Is Frank Herbert still alive?"
+    },
+    {
+        "answers": [
+            "292"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Give me all companies in the advertising industry."
+    },
+    {
+        "answers": [
+            "50"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many countries are there in Europe?"
+    },
+    {
+        "answers": [
+            "http://www.tomcruise.com/"
+        ],
+        "answertype": "string",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "What is the official website of Tom Cruise?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Is there a video game called Battle Chess?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Is Christian Bale starring in Velvet Goldmine?"
+    },
+    {
+        "answers": [
+            "http://www.yum.com/",
+            "http://volkswagenag.com",
+            "http://rostec.ru/en/",
+            "http://www.g4s.com/",
+            "http://www.crec.cn/",
+            "http://www.petrochina.com.cn/ptr/",
+            "http://www.sgcc.com.cn/ywlm/default.shtml",
+            "http://www.yves-rocher.com/",
+            "http://www.foxconn.com",
+            "http://www.koelnmesse.com",
+            "http://www.cnpc.com.cn/en/",
+            "http://www.issworld.com/",
+            "http://www.spb.gov.cn/",
+            "http://www.samsungcnt.com/",
+            "http://www.slpa.lk/",
+            "http://lamborghini.com/en/home/",
+            "http://www.arup.com",
+            "http://www.brother.com/",
+            "http://www.nisamerica.com/",
+            "http://www.nippon1.co.jp/index.html",
+            "http://www.slimmingworld.com",
+            "http://richemont.com",
+            "http://www.verabradley.com/",
+            "http://www.jtekt.co.jp/e/index.html",
+            "http://portlandgeneral.com",
+            "http://www.zilog.com/",
+            "http://www.ixys.com/",
+            "http://www.stx.co.kr",
+            "http://ttbank.gr",
+            "http://www.ohe-transport.de/"
+        ],
+        "answertype": "string",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Give me the websites of companies with more than 500000 employees."
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Was the wife of president Lincoln called Mary?"
+    },
+    {
+        "answers": [
+            "9600"
+        ],
+        "answertype": "number",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many Aldi stores are there?"
+    },
+    {
+        "answers": [
+            "480"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many films did Hal Roach produce?"
+    },
+    {
+        "answers": [
+            "23"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many films did Leonardo DiCaprio star in?"
+    },
+    {
+        "answers": [
+            "1981"
+        ],
+        "answertype": "year",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "When was Jack Wolfskin founded?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Was Natalie Portman born in the United States?"
+    },
+    {
+        "answers": [
+            "2615060"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many inhabitants does the largest city in Canada have?"
+    },
+    {
+        "answers": [
+            "749"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many programming languages are there?"
+    },
+    {
+        "answers": [
+            "Oxford Blue"
+        ],
+        "answertype": "string",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "What is the official color of the University of Oxford?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Does Abraham Lincoln's death place have a website?"
+    },
+    {
+        "answers": [
+            "72.7"
+        ],
+        "answertype": "n",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How deep is Lake Chiemsee?"
+    },
+    {
+        "answers": [
+            "http://dbpedia.org/resource/Myocardial_infarction"
+        ],
+        "answertype": "x",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "What is the most frequent cause of death?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Does the Isar flow into a lake?"
+    },
+    {
+        "answers": [
+            "1225"
+        ],
+        "answertype": "n",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many pages does War and Peace have?"
+    },
+    {
+        "answers": [
+            "24"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many James Bond movies are there?"
+    },
+    {
+        "answers": [
+            "--10-31"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "When is Halloween?"
+    },
+    {
+        "answers": [
+            "2"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many languages are spoken in Colombia?"
+    },
+    {
+        "answers": [
+            "22"
+        ],
+        "answertype": "n",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "What was Brazil's lowest rank in the FIFA World Ranking?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Is Cola a beverage?"
+    },
+    {
+        "answers": [
+            "1100.0"
+        ],
+        "answertype": "n",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How heavy is Jupiter's lightest moon?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Is James Bond married?"
+    },
+    {
+        "answers": [
+            "1986-03-01"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "When was Olof Palme shot?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Did Che Guevara have children?"
+    },
+    {
+        "answers": [
+            "1912-04-02"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "When was the Titanic completed?"
+    },
+    {
+        "answers": [
+            "8.0"
+        ],
+        "answertype": "n",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How much did Pulp Fiction cost?"
+    },
+    {
+        "answers": [
+            "1057"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many airlines are there?"
+    },
+    {
+        "answers": [
+            "20.0"
+        ],
+        "answertype": "carbs",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How much carbs does peanut butter have?"
+    },
+    {
+        "answers": [
+            "1912-04-20"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "When did Dracula's creator die?"
+    },
+    {
+        "answers": [
+            "4"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many politicians graduated from Columbia University?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Did Arnold Schwarzenegger attend a university?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Is Barack Obama a democrat?"
+    },
+    {
+        "answers": [
+            "8"
+        ],
+        "answertype": "n",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many children does Eddie Murphy have?"
+    },
+    {
+        "answers": [
+            "319"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many scientists graduated from an Ivy League university?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Is Darth Vader Luke\u2019s father?"
+    },
+    {
+        "answers": [
+            "0"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many companies were founded by the founder of Facebook?"
+    },
+    {
+        "answers": [
+            "0"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many companies were founded in the same year as Google?"
+    },
+    {
+        "answers": [
+            "22"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many airlines are members of the Star Alliance?"
+    },
+    {
+        "answers": [
+            "3.951E10"
+        ],
+        "answertype": "ni",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "What is the net income of Apple?"
+    },
+    {
+        "answers": [
+            "F\u00e9d\u00e9ration Internationale de Football Association"
+        ],
+        "answertype": "name",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "What does the abbreviation FIFA stand for?"
+    },
+    {
+        "answers": [
+            "--04-25"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "When did the Ming dynasty dissolve?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Is Lake Baikal bigger than the Great Bear Lake?"
+    },
+    {
+        "answers": [
+            "237.0"
+        ],
+        "answertype": "\"callret-0\"",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "What is the height difference between Mount Everest and K2?"
+    },
+    {
+        "answers": [
+            "29.0"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How high is the lighthouse in Colombo?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "Are Taiko a kind of Japanese musical instruments?"
+    },
+    {
+        "answers": [
+            "4"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-6-train-multilingual.json",
+        "question": "How many ethnic groups live in Slovenia?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "Did Robin Cook attend a university?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "Did Tony Fry influence Aristotle?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "Does Por tu amor have more episodes than Game of Thrones?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "Does the Alba River flow into a lake?"
+    },
+    {
+        "answers": [
+            "http://dbpedia.org/resource/Gigi_Hadid",
+            "http://dbpedia.org/resource/Brandon_&_Leah",
+            "http://dbpedia.org/resource/Amy_S._Foster",
+            "http://dbpedia.org/resource/Sara_Michael_Foster",
+            "http://dbpedia.org/resource/Bella_Hadid",
+            "http://dbpedia.org/resource/Brody_Jenner",
+            "http://dbpedia.org/resource/Erin_Foster"
+        ],
+        "answertype": "child",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "Give me the children of David Foster."
+    },
+    {
+        "answers": [
+            "http://www.pointclickhome.com/metropolitan_home"
+        ],
+        "answertype": "string",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "Give me the homepage of Metropolitan Home."
+    },
+    {
+        "answers": [
+            "4.45154e+06"
+        ],
+        "answertype": "area",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "How big is the Mammoth Pool Reservoir?"
+    },
+    {
+        "answers": [
+            "19.0"
+        ],
+        "answertype": "n",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "How deep is Steinsee?"
+    },
+    {
+        "answers": [
+            "1229.87"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "How high is the Doe Hill Mountain?"
+    },
+    {
+        "answers": [
+            "1239.0"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "How high is the Volcano Mountain?"
+    },
+    {
+        "answers": [
+            "29.0"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "How high is the Landegode Lighthouse?"
+    },
+    {
+        "answers": [
+            "3000"
+        ],
+        "answertype": "number",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "How many employees does Staedtler have?"
+    },
+    {
+        "answers": [
+            "1"
+        ],
+        "answertype": "count",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "How many ethnic groups live in Spain?"
+    },
+    {
+        "answers": [
+            "17776"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "How many inhabitants does Nagamangala have?"
+    },
+    {
+        "answers": [
+            "4"
+        ],
+        "answertype": "count",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "How many museums does Sofia have?"
+    },
+    {
+        "answers": [
+            "320"
+        ],
+        "answertype": "n",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "How many pages does The Man with the Red Tattoo have?"
+    },
+    {
+        "answers": [
+            "837437"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "How many people live in the capital of Togo?"
+    },
+    {
+        "answers": [
+            "11"
+        ],
+        "answertype": "count",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "How many politicians graduated from Stanford University?"
+    },
+    {
+        "answers": [
+            "2"
+        ],
+        "answertype": "count",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "How many scientists graduated from Washburn University?"
+    },
+    {
+        "answers": [
+            "35893"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "How many students does the Texas Tech University have?"
+    },
+    {
+        "answers": [
+            "6.8E7"
+        ],
+        "answertype": "n",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "How much did Vanilla Sky cost?"
+    },
+    {
+        "answers": [
+            "1"
+        ],
+        "answertype": "count",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "How often did Teresa Mo marry?"
+    },
+    {
+        "answers": [
+            "2.032"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "How tall is John Windsor?"
+    },
+    {
+        "answers": [
+            "1.778"
+        ],
+        "answertype": "height",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "How tall is Kate Upton?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "Is Campari a beverage?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "Is Lisa Guerrero a model?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "Is Sol Tax a scientist?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "Is Joe Biden a democrat?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "Is David Macaulay still alive?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "Is Wilma Flintstone married?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "Is there a video game called Flappy Bird?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "Was Peter Isola a chemist?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "Was Denis Dutton born in Sioux City?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "Was Vannes Wu born in Aachen-Mitte?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "Was the band Led Zeppelin founded before DJ Tomekk was born?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "Was the band ZZ Top founded before Macklemore was born?"
+    },
+    {
+        "answers": [
+            "2297"
+        ],
+        "answertype": "string",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "What is the area code of Aegina?"
+    },
+    {
+        "answers": [
+            "Dark brown"
+        ],
+        "answertype": "color",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "What is the eye color of Liza Kennedy?"
+    },
+    {
+        "answers": [
+            "Brown"
+        ],
+        "answertype": "color",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "What is the hair color of Marlon Teixeira?"
+    },
+    {
+        "answers": [
+            "Black and red"
+        ],
+        "answertype": "string",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "What is the official color of the Carleton University?"
+    },
+    {
+        "answers": [
+            "1987-02-11"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "When did Jules Bergman die?"
+    },
+    {
+        "answers": [
+            "1936-06-11"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "When did Red Sonja's creator die?"
+    },
+    {
+        "answers": [
+            "2012-06-04"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "When is Gibraltar Diamond Jubilee Flotilla?"
+    },
+    {
+        "answers": [
+            "1961-04-04"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "When was Sevcon founded?"
+    },
+    {
+        "answers": [
+            "1875-01-14"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "When was Albert Schweitzer born?"
+    },
+    {
+        "answers": [
+            "1844"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "When was the Cobble Hill Tunnel built?"
+    },
+    {
+        "answers": [
+            "1930-09-17"
+        ],
+        "answertype": "num",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "When was the Riverdale Monument built?"
+    },
+    {
+        "answers": [
+            "2007-07-15"
+        ],
+        "answertype": "date",
+        "dataset": "data/./qald/qald-7-train-largescale.json",
+        "question": "When was the Operation Purple Haze?"
+    },
+    {
+        "answers": [
+            "679"
+        ],
+        "answertype": "total",
+        "dataset": "data/./qald/qald-7-train-en-wikidata.json",
+        "question": "How many goals did Pel\u00e9 score?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-multilingual-extended-json.json",
+        "question": "Is Christian Bale starring in Batman Begins?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-multilingual-extended-json.json",
+        "question": "Is the wife of president Obama called Michelle?"
+    },
+    {
+        "answers": [
+            "1.81"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-7-train-multilingual-extended-json.json",
+        "question": "How tall is Claudia Schiffer?"
+    },
+    {
+        "answers": [
+            true
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-multilingual-extended-json.json",
+        "question": "Is Michelle Obama the wife of Barack Obama?"
+    },
+    {
+        "answers": [
+            "106.07"
+        ],
+        "answertype": "c",
+        "dataset": "data/./qald/qald-7-train-multilingual-extended-json.json",
+        "question": "How high is the Yokohama Marine Tower?"
+    },
+    {
+        "answers": [
+            false
+        ],
+        "answertype": "boolean",
+        "dataset": "data/./qald/qald-7-train-multilingual-extended-json.json",
+        "question": "Does the new Battlestar Galactica series have more episodes than the old one?"
+    }
+]
